@@ -7,6 +7,7 @@ This repository covers basic signal processing techniques applied to audio signa
 - **Noise Canceller**: Apply FIR filters to reduce background noise.
 - **Pitch Shifter**: Modify the pitch of an audio signal.
 - **Beat Detection**: Detect beats in music using Short-Time Fourier Transform (STFT).
+- **STFT Visualization**: Visualize the spectrogram of an audio signal using STFT.
 
 ## Resources
 - [Audio Signal Processing Theory](resources/audio-signal-processing-theory.pdf)
